@@ -1,3 +1,4 @@
+package Ficha3;
 import javax.swing.JOptionPane;
 
 public class Ficha3_Exe7 {
