@@ -1,0 +1,10 @@
+package Ficha3;
+
+public class Ficha3Exe6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
