@@ -1,3 +1,5 @@
+package Ficha_13;
+
 public class Ex07 {
     public static void main(String[] args) {
         int[] min = new int[30], max = new int[30];

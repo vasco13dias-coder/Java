@@ -1,3 +1,5 @@
+package Ficha_13;
+
 import java.util.*;
 public class Ex03 {
     static Scanner s = new Scanner(System.in);
